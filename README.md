@@ -328,13 +328,7 @@ void calibrateCurrentSensors() {
 - [ ] VR/AR control interface
 - [ ] Adaptive learning for improved fault detection
 
-## 🎥 Demo
 
-### Video Demo
-[Add YouTube link or GIF]
-
-### Screenshots
-[Add dashboard screenshots]
 
 ## 🤝 Contributing
 
